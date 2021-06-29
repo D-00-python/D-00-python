@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-00-python
-- 👀 I’m interested in Python (especially Python 3), PyGame and Tkinter. Also Stack Overflow, or Minecraft (even if AFAIK this has nothing to do with programming)
+- 👀 I’m interested in Python (especially Python 3), PyGame and Tkinter, also Stack Overflow, and Minecraft (even if AFAIK this has nothing to do with programming)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
